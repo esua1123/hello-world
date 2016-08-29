@@ -1,5 +1,8 @@
 # hello-world
-My first github repository
 
-This is a test. 
-...it has to be...
+public class HelloWorld {
+	public static void main(String[] args)
+	{
+		System.out.println("Hello, World!");
+	}
+}
